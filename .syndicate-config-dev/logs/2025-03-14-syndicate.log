@@ -1,0 +1,84 @@
+2025-03-14 01:35:13,875 [INFO] USER:aditya_kumar4 handlers.py:114:syndicate LOG: Configuration used: C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev
+2025-03-14 01:35:13,877 [ERROR] USER:aditya_kumar4 decorators.py:147:wrapper LOG: ConfigurationError occurred: The syndicate configuration file is not found in the directory 'C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev'
+2025-03-14 01:35:13,880 [ERROR] USER:aditya_kumar4 decorators.py:148:wrapper LOG: Traceback (most recent call last):
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\decorators.py", line 137, in wrapper
+    return_code = func(*args, **kwargs)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\handlers.py", line 115, in syndicate
+    initialize_connection()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\__init__.py", line 107, in initialize_connection
+    CONFIG = ConfigHolder(CONF_PATH)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\conf\processor.py", line 70, in __init__
+    raise ConfigurationError(
+    ...<2 lines>...
+    )
+syndicate.exceptions.ConfigurationError: The syndicate configuration file is not found in the directory 'C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev'
+Traceback (most recent call last):
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\decorators.py", line 137, in wrapper
+    return_code = func(*args, **kwargs)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\handlers.py", line 115, in syndicate
+    initialize_connection()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\__init__.py", line 107, in initialize_connection
+    CONFIG = ConfigHolder(CONF_PATH)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\conf\processor.py", line 70, in __init__
+    raise ConfigurationError(
+    ...<2 lines>...
+    )
+syndicate.exceptions.ConfigurationError: The syndicate configuration file is not found in the directory 'C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev'
+2025-03-14 01:36:05,318 [INFO] USER:aditya_kumar4 handlers.py:114:syndicate LOG: Configuration used: C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev
+2025-03-14 01:36:05,320 [ERROR] USER:aditya_kumar4 decorators.py:147:wrapper LOG: ConfigurationError occurred: The syndicate configuration file is not found in the directory 'C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev'
+2025-03-14 01:36:05,323 [ERROR] USER:aditya_kumar4 decorators.py:148:wrapper LOG: Traceback (most recent call last):
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\decorators.py", line 137, in wrapper
+    return_code = func(*args, **kwargs)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\handlers.py", line 115, in syndicate
+    initialize_connection()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\__init__.py", line 107, in initialize_connection
+    CONFIG = ConfigHolder(CONF_PATH)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\conf\processor.py", line 70, in __init__
+    raise ConfigurationError(
+    ...<2 lines>...
+    )
+syndicate.exceptions.ConfigurationError: The syndicate configuration file is not found in the directory 'C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev'
+Traceback (most recent call last):
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\decorators.py", line 137, in wrapper
+    return_code = func(*args, **kwargs)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\handlers.py", line 115, in syndicate
+    initialize_connection()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\__init__.py", line 107, in initialize_connection
+    CONFIG = ConfigHolder(CONF_PATH)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\conf\processor.py", line 70, in __init__
+    raise ConfigurationError(
+    ...<2 lines>...
+    )
+syndicate.exceptions.ConfigurationError: The syndicate configuration file is not found in the directory 'C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev'
+2025-03-14 01:36:22,430 [INFO] USER:aditya_kumar4 handlers.py:114:syndicate LOG: Configuration used: C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev
+2025-03-14 01:36:22,432 [ERROR] USER:aditya_kumar4 decorators.py:147:wrapper LOG: ConfigurationError occurred: The syndicate configuration file is not found in the directory 'C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev'
+2025-03-14 01:36:22,435 [ERROR] USER:aditya_kumar4 decorators.py:148:wrapper LOG: Traceback (most recent call last):
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\decorators.py", line 137, in wrapper
+    return_code = func(*args, **kwargs)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\handlers.py", line 115, in syndicate
+    initialize_connection()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\__init__.py", line 107, in initialize_connection
+    CONFIG = ConfigHolder(CONF_PATH)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\conf\processor.py", line 70, in __init__
+    raise ConfigurationError(
+    ...<2 lines>...
+    )
+syndicate.exceptions.ConfigurationError: The syndicate configuration file is not found in the directory 'C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev'
+Traceback (most recent call last):
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\decorators.py", line 137, in wrapper
+    return_code = func(*args, **kwargs)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\handlers.py", line 115, in syndicate
+    initialize_connection()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\__init__.py", line 107, in initialize_connection
+    CONFIG = ConfigHolder(CONF_PATH)
+  File "C:\Users\aditya_kumar4\AppData\Local\Programs\Python\Python313\Lib\site-packages\syndicate\core\conf\processor.py", line 70, in __init__
+    raise ConfigurationError(
+    ...<2 lines>...
+    )
+syndicate.exceptions.ConfigurationError: The syndicate configuration file is not found in the directory 'C:\Users\aditya_kumar4\Desktop\task11\.syndicate-config-dev'
